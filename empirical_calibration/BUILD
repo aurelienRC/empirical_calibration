@@ -35,7 +35,7 @@ pytype_library(
         # patsy dep,
         # scipy dep,
         # six dep,
-        # sklearn dep,
+        # scikit-learn dep,
         # typing dep,
     ],
 )
