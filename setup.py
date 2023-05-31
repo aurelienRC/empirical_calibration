@@ -34,7 +34,7 @@ setup(
         'patsy',
         'scipy',
         'six',
-        'sklearn',
+        'scikit-learn == 1.2.2',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
