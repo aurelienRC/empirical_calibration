@@ -28,12 +28,6 @@ setup(
     license='Apache 2.0',
     packages=find_packages(),
     install_requires=[
-        'absl-py',
-        'numpy >= 1.11.1',
-        'pandas',
-        'patsy',
-        'scipy',
-        'six',
         'scikit-learn == 1.2.2',
     ],
     classifiers=[
